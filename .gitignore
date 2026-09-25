@@ -1,0 +1,19 @@
+# OS files
+.DS_Store
+desktop.ini
+Thumbs.db
+# Data files
+*.csv
+*.txt
+data/
+# Python caches & virtual envs
+__pycache__/
+class3.md 2026-09-18
+3 / 10
+*.pyc
+.venv/
+venv/
+# IDE settings & Secrets
+.vscode/
+.idea/
+.env
